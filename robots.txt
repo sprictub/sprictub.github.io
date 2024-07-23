@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sprictub.github.io/sitemap
+Sitemap: https://sprictub.github.io/app/sitemap
+Sitemap: https://sprictub.github.io/assets/sitemap
+Sitemap: https://sprictub.github.io/css/sitemap
+Sitemap: https://sprictub.github.io/includes/sitemap
+Sitemap: https://sprictub.github.io/item/sitemap
+Sitemap: https://sprictub.github.io/src/sitemap
